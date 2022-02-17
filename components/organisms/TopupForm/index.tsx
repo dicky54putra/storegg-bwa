@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 export default function TopupForm() {
@@ -304,12 +305,13 @@ export default function TopupForm() {
         />
       </div>
       <div className="d-sm-block d-flex flex-column w-100">
-        <a
-          href="./checkout.html"
-          type="submit"
-          className="btn btn-submit rounded-pill fw-medium text-white border-0 text-lg">
-          Continue
-        </a>
+        <Link href="/checkout">
+          <a
+            type="submit"
+            className="btn btn-submit rounded-pill fw-medium text-white border-0 text-lg">
+            Continue
+          </a>
+        </Link>
       </div>
     </form>
   );

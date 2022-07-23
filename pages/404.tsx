@@ -12,7 +12,7 @@ export default function Page404() {
             viewBox="0 0 483 300"
             fill="none"
             xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#clip0)">
+            <g clipPath="url(#clip0)">
               <path
                 d="M6.92621 184.487C10.593 184.487 13.8524 181.579 13.8524 177.424C13.8524 173.684 11.0004 170.36 6.92621 170.36C3.25939 170.36 0 173.268 0 177.424C0 181.163 2.85197 184.487 6.92621 184.487Z"
                 fill="url(#paint0_linear)"
@@ -242,8 +242,8 @@ export default function Page404() {
                 x2="13.1704"
                 y2="177.412"
                 gradientUnits="userSpaceOnUse">
-                <stop stop-color="#83A6FF" />
-                <stop offset="1" stop-color="#5A78FF" />
+                <stop stopColor="#83A6FF" />
+                <stop offset="1" stopColor="#5A78FF" />
               </linearGradient>
               <linearGradient
                 id="paint1_linear"
@@ -252,8 +252,8 @@ export default function Page404() {
                 x2="480.658"
                 y2="25.0788"
                 gradientUnits="userSpaceOnUse">
-                <stop stop-color="#83A6FF" />
-                <stop offset="1" stop-color="#5A78FF" />
+                <stop stopColor="#83A6FF" />
+                <stop offset="1" stopColor="#5A78FF" />
               </linearGradient>
               <linearGradient
                 id="paint2_linear"
@@ -262,12 +262,8 @@ export default function Page404() {
                 x2="377.296"
                 y2="258.937"
                 gradientUnits="userSpaceOnUse">
-                <stop
-                  offset="0.00289017"
-                  stop-color="#606673"
-                  stop-opacity="0"
-                />
-                <stop offset="1" stop-color="#373C47" />
+                <stop offset="0.00289017" stopColor="#606673" stopOpacity="0" />
+                <stop offset="1" stopColor="#373C47" />
               </linearGradient>
               <linearGradient
                 id="paint3_linear"
@@ -276,12 +272,8 @@ export default function Page404() {
                 x2="232.522"
                 y2="48.4336"
                 gradientUnits="userSpaceOnUse">
-                <stop
-                  offset="0.00289017"
-                  stop-color="#606673"
-                  stop-opacity="0"
-                />
-                <stop offset="1" stop-color="#373C47" />
+                <stop offset="0.00289017" stopColor="#606673" stopOpacity="0" />
+                <stop offset="1" stopColor="#373C47" />
               </linearGradient>
               <linearGradient
                 id="paint4_linear"
@@ -290,8 +282,8 @@ export default function Page404() {
                 x2="422.924"
                 y2="78.748"
                 gradientUnits="userSpaceOnUse">
-                <stop stop-color="#FF66A9" />
-                <stop offset="1" stop-color="#F53689" />
+                <stop stopColor="#FF66A9" />
+                <stop offset="1" stopColor="#F53689" />
               </linearGradient>
               <linearGradient
                 id="paint5_linear"
@@ -300,12 +292,8 @@ export default function Page404() {
                 x2="459.972"
                 y2="169.644"
                 gradientUnits="userSpaceOnUse">
-                <stop
-                  offset="0.00289017"
-                  stop-color="#606673"
-                  stop-opacity="0"
-                />
-                <stop offset="1" stop-color="#373C47" />
+                <stop offset="0.00289017" stopColor="#606673" stopOpacity="0" />
+                <stop offset="1" stopColor="#373C47" />
               </linearGradient>
               <linearGradient
                 id="paint6_linear"
@@ -314,12 +302,8 @@ export default function Page404() {
                 x2="53.238"
                 y2="169.644"
                 gradientUnits="userSpaceOnUse">
-                <stop
-                  offset="0.00289017"
-                  stop-color="#606673"
-                  stop-opacity="0"
-                />
-                <stop offset="1" stop-color="#373C47" />
+                <stop offset="0.00289017" stopColor="#606673" stopOpacity="0" />
+                <stop offset="1" stopColor="#373C47" />
               </linearGradient>
               <linearGradient
                 id="paint7_linear"
@@ -328,12 +312,8 @@ export default function Page404() {
                 x2="226.322"
                 y2="47.7445"
                 gradientUnits="userSpaceOnUse">
-                <stop
-                  offset="0.00289017"
-                  stop-color="#3F5073"
-                  stop-opacity="0"
-                />
-                <stop offset="1" stop-color="#283247" />
+                <stop offset="0.00289017" stopColor="#3F5073" stopOpacity="0" />
+                <stop offset="1" stopColor="#283247" />
               </linearGradient>
               <clipPath id="clip0">
                 <rect width="482.759" height="300" fill="white" />

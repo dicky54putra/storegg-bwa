@@ -43,6 +43,8 @@
     "react/self-closing-comp": "off",
     "react/no-unknown-property": "off",
     "react/jsx-closing-bracket-location": "off",
+    "comma-dangle": "off",
+    "react/jsx-one-expression-per-line": "off",
     "object-curly-newline": [
       "error",
       {
